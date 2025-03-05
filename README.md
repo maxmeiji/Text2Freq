@@ -16,7 +16,7 @@ In this paper, we introduce an innovative yet critical task for real-world appli
 
 <p align="center">
   <img src="pic/InstructionCase.png" alt="Illustration of instruction-followinf forecasting task" width="45%">
-  <img src="pic/Flexibility.png" alt="Prediction flexibility" width="45%">
+  <img src="pic/FlexibilityCase.png" alt="Prediction flexibility" width="45%">
 </p>
 ---
 
@@ -29,7 +29,7 @@ To tackle three key challenges in multimodal instruction-following forecasting, 
 2. **Finetuning Phase**: The pretrained frequency-based predictor is integrated with a unimodal time series forecasting model to generate final predictions.
 
 <p align="center">
-  <img src="https://github.com/maxmeiji/PatchTST/blob/main/pic/model_architecture.png" alt="Training Pipeline" width="600">
+  <img src="pic/Framework.png" alt="Training Pipeline" width="600">
 </p>
 
 ---

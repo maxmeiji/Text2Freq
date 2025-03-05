@@ -15,9 +15,9 @@
 In this paper, we introduce an innovative yet critical task for real-world applications: **instruction-Following Time Series Forecasting**. Our approach integrates human-specified instructions (e.g., 'the series may increase in the near future') with past numerical observations to predict future dynamics.
 
 <p align="center">
-  <img src="https://github.com/maxmeiji/PatchTST/blob/main/pic/model_architecture.png" alt="Model Architecture" width="600">
+  <img src="pic/InstructionCase.png" alt="Illustration of instruction-followinf forecasting task" width="45%">
+  <img src="pic/Flexibility.png" alt="Prediction flexibility" width="45%">
 </p>
-
 ---
 
 ## Model Architecture

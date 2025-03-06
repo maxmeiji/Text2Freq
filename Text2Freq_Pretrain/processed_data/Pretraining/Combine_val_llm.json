@@ -1,0 +1,1017 @@
+[
+    {
+        "id": 339,
+        "time_series": "16,0,20,14,31,24,39,34,34,56,46,75",
+        "series_description": "The time series data shows an overall growing trend with some minor fluctuations."
+    },
+    {
+        "id": 340,
+        "time_series": "0,20,14,31,24,39,34,34,56,46,75,68",
+        "series_description": "The data generally displays an increasing trend with slight fluctuations and a momentary plateau."
+    },
+    {
+        "id": 341,
+        "time_series": "20,14,31,24,39,34,34,56,46,75,68,62",
+        "series_description": "The time series data shows a consistent upward trend with minor fallbacks."
+    },
+    {
+        "id": 342,
+        "time_series": "14,31,24,39,34,34,56,46,75,68,62,77",
+        "series_description": "The data shows a general increasing pattern, with some minor fluctuations throughout."
+    },
+    {
+        "id": 343,
+        "time_series": "31,24,39,34,34,56,46,75,68,62,77,81",
+        "series_description": "The time series data exhibits a general upward trend with some intermittent fluctuation."
+    },
+    {
+        "id": 344,
+        "time_series": "22,36,31,31,52,43,69,63,57,71,75,70",
+        "series_description": "The data presents a generally increasing trend with minor fluctuations throughout."
+    },
+    {
+        "id": 345,
+        "time_series": "36,31,31,52,43,69,63,57,71,75,70,53",
+        "series_description": "The time series data shows a fluctuating pattern with an initial dip, followed by a steady increase and a final decrease."
+    },
+    {
+        "id": 346,
+        "time_series": "30,30,51,41,67,61,55,69,73,68,51,56",
+        "series_description": "The data shows a pattern of increasing, then decreasing, and finally increasing trend with noticeable fluctuations."
+    },
+    {
+        "id": 347,
+        "time_series": "30,50,41,66,61,55,68,72,67,50,55,76",
+        "series_description": "The data exhibits a fluctuating pattern with an initial increase, a dip, and then a gradual increase."
+    },
+    {
+        "id": 348,
+        "time_series": "46,38,61,56,50,63,66,62,46,51,70,81",
+        "series_description": "The data demonstrates a fluctuation pattern with an overall increasing trend, including a slight dip and recovery in the middle."
+    },
+    {
+        "id": 349,
+        "time_series": "38,61,56,50,63,66,62,46,51,70,81,72",
+        "series_description": "The data starts with some fluctuations, then sees a consistent increase, followed by a drop and rise at the end."
+    },
+    {
+        "id": 350,
+        "time_series": "61,56,50,63,66,62,46,51,70,81,72,74",
+        "series_description": "The time series data shows fluctuation with an initial decrease, followed by an increase, then another decrease, and ends with an increase."
+    },
+    {
+        "id": 351,
+        "time_series": "50,44,58,62,57,39,44,66,79,68,71,54",
+        "series_description": "The data exhibits a fluctuating pattern, consisting of an initial decline, a subsequent significant rise, followed by a dip and then finally another rise."
+    },
+    {
+        "id": 352,
+        "time_series": "44,58,62,57,39,44,66,79,68,71,54,59",
+        "series_description": "The data shows a fluctuating pattern with an initial rise, followed by a drop, another rise and a final gradual decrease."
+    },
+    {
+        "id": 353,
+        "time_series": "54,58,52,33,38,63,77,65,68,50,55,68",
+        "series_description": "The data displays a fluctuating trend with an initial increase, subsequent decrease, and then a final increase."
+    },
+    {
+        "id": 354,
+        "time_series": "58,52,33,38,63,77,65,68,50,55,68,85",
+        "series_description": "The data shows a volatility pattern, with an initial fall and rise, a brief drop, followed by a consistent rise, and a subsequent decline leading to a final increase."
+    },
+    {
+        "id": 355,
+        "time_series": "47,26,32,59,74,61,65,44,50,64,83,76",
+        "series_description": "The data presents a fluctuation pattern with an initial drop, followed by a rise, a decrease, and a final rise."
+    },
+    {
+        "id": 356,
+        "time_series": "26,32,59,74,61,65,44,50,64,83,76,87",
+        "series_description": "The data shows fluctuation pattern with a mostly increasing trend initially, a drop towards the middle, and a subsequent rise towards the end."
+    },
+    {
+        "id": 357,
+        "time_series": "32,59,74,61,65,44,50,64,83,76,87,89",
+        "series_description": "The time series data shows a pattern of initial growth, a slight dip, followed by an increase and then a gradual decrease."
+    },
+    {
+        "id": 358,
+        "time_series": "52,70,55,59,35,41,58,80,73,85,87,100",
+        "series_description": "The time series data displays a fluctuating pattern with an overall increasing trend."
+    },
+    {
+        "id": 359,
+        "time_series": "70,55,59,35,41,58,80,73,85,87,100,63",
+        "series_description": "The data exhibits an overall oscillating trend with an initial decrease, an increase, followed by a short decline and a final surge."
+    },
+    {
+        "id": 360,
+        "time_series": "47,52,25,32,52,77,68,83,85,100,57,63",
+        "series_description": "The data exhibits a fluctuating pattern, experiencing an initial rise, a substantial peak, followed by a decrease and ending with a marginal increase."
+    },
+    {
+        "id": 361,
+        "time_series": "52,25,32,52,77,68,83,85,100,57,63,47",
+        "series_description": "The data exhibits a fluctuating pattern with a general increase to a peak, a subsequent decrease, and finally a moderate increase."
+    },
+    {
+        "id": 362,
+        "time_series": "25,32,52,77,68,83,85,100,57,63,47,55",
+        "series_description": "The time series data exhibits a fluctuating pattern with a sharp increase, a slight drop, another increase, followed by a decline and then a slight recovery."
+    },
+    {
+        "id": 363,
+        "time_series": "32,52,77,68,83,85,100,57,63,47,55,52",
+        "series_description": "The data reflects a mixed trend with an initial spike, then a slight drop followed by a strong increase, and finally ending with a decline."
+    },
+    {
+        "id": 364,
+        "time_series": "52,77,68,83,85,100,57,63,47,55,52,41",
+        "series_description": "The data exhibits a fluctuating pattern with a general increase, followed by a significant decrease, and a slight increase towards the end."
+    },
+    {
+        "id": 365,
+        "time_series": "77,68,83,85,100,57,63,47,55,52,41,51",
+        "series_description": "The data series shows a general decline in values over time, with some minor fluctuations and slight increases in between."
+    },
+    {
+        "id": 366,
+        "time_series": "68,83,85,100,57,63,47,55,52,41,51,53",
+        "series_description": "The time series data exhibits a fluctuating pattern, showing an initial increase, a significant decline, and a slight rebound towards the end."
+    },
+    {
+        "id": 367,
+        "time_series": "82,84,100,53,60,42,51,48,36,47,48,53",
+        "series_description": "The time series data displays a consistent downward trend with a brief spike early on, indicating an overall decline with fluctuations."
+    },
+    {
+        "id": 368,
+        "time_series": "80,100,42,51,29,40,36,22,35,37,42,53",
+        "series_description": "The data shows a generally fluctuating pattern, starting with an initial decrease, followed by alternating smaller increases and decreases."
+    },
+    {
+        "id": 369,
+        "time_series": "100,42,51,29,40,36,22,35,37,42,53,54",
+        "series_description": "The data portrays a relatively stable pattern with minor fluctuations, but no significant increase or decrease over time."
+    },
+    {
+        "id": 370,
+        "time_series": "42,51,29,40,36,22,35,37,42,53,54,68",
+        "series_description": "The time series data displays an overall increasing trend with some intermittent drops and recoveries."
+    },
+    {
+        "id": 371,
+        "time_series": "51,29,40,36,22,35,37,42,53,54,68,82",
+        "series_description": "The time series data displays a general increasing trend, initially fluctuating and then steadily rising near the end."
+    },
+    {
+        "id": 372,
+        "time_series": "29,40,36,22,35,37,42,53,54,68,82,72",
+        "series_description": "The time series data exhibits an overall increasing trend, with minor fluctuations."
+    },
+    {
+        "id": 373,
+        "time_series": "34,29,14,28,30,36,48,49,65,80,69,55",
+        "series_description": "The time series data shows an overall increasing trend with minor fluctuations, starting modestly, increasing significantly in the middle, and decreasing slightly towards the end."
+    },
+    {
+        "id": 374,
+        "time_series": "17,0,16,19,26,40,41,59,77,64,48,47",
+        "series_description": "The data shows a general growing trend with a peak mid-series, followed by a decline and a slight increase toward the end."
+    },
+    {
+        "id": 375,
+        "time_series": "2,18,21,28,42,42,60,77,64,49,49,58",
+        "series_description": "The data manifests a general rising trend, followed by a drop, and ends with a slight increase again."
+    },
+    {
+        "id": 376,
+        "time_series": "45,47,52,61,61,73,85,76,66,66,72,78",
+        "series_description": "The time series data reveals an initial gradual increase, a slight decrease midway, followed by another increase, and ending with a slight drop."
+    },
+    {
+        "id": 377,
+        "time_series": "47,52,61,61,73,85,76,66,66,72,78,36",
+        "series_description": "The data series displays a generally increasing trend with a substantial drop towards the end."
+    },
+    {
+        "id": 378,
+        "time_series": "52,61,61,73,85,76,66,66,72,78,36,71",
+        "series_description": "The data shows a general fluctuating pattern, with a slight increase initially, a subsequent decrease, and a final rebound."
+    },
+    {
+        "id": 379,
+        "time_series": "61,61,73,85,76,66,66,72,78,36,71,56",
+        "series_description": "The data shows a fluctuation pattern with an initial rise and fall, followed by stabilization, a drop, and a final decrease."
+    },
+    {
+        "id": 380,
+        "time_series": "72,86,99,89,77,77,84,92,43,84,66,64",
+        "series_description": "The data fluctuates, initially increasing, followed by a slight decrease, then shows a drastic drop and finishes with a minor decreasing trend."
+    },
+    {
+        "id": 381,
+        "time_series": "86,99,89,77,77,84,92,43,84,66,64,56",
+        "series_description": "The data exhibits a fluctuating pattern with an overall decline, initial growth, a significant drop, and ending with additional fluctuations."
+    },
+    {
+        "id": 382,
+        "time_series": "99,89,77,77,84,92,43,84,66,64,56,68",
+        "series_description": "The data demonstrates substantial fluctuations, with an initial decrease, followed by a slight increase and then a general decline."
+    },
+    {
+        "id": 383,
+        "time_series": "89,77,77,84,92,43,84,66,64,56,68,71",
+        "series_description": "The given data displays a trend of inconsistency with a high point in the beginning followed by a significant drop and minor fluctuations towards the end."
+    },
+    {
+        "id": 384,
+        "time_series": "77,77,84,92,43,84,66,64,56,68,71,42",
+        "series_description": "The time series data shows an initial slight rise, followed by a significant drop, and then fluctuates with no clear pattern."
+    },
+    {
+        "id": 385,
+        "time_series": "77,84,92,43,84,66,64,56,68,71,42,39",
+        "series_description": "The data exhibits a fluctuating pattern consisting of an initial increase, followed by a significant decline, and subsequent mild fluctuations with a general decreasing trend."
+    },
+    {
+        "id": 386,
+        "time_series": "87,93,55,87,73,71,65,74,77,54,52,21",
+        "series_description": "The data demonstrates a generally decreasing trend with some minor fluctuations in between."
+    },
+    {
+        "id": 197,
+        "time_series": "49,32,35,47,46,27,23,57,67,58,75,100",
+        "series_description": "The data exhibits a fluctuating pattern, starting with a decrease, then a sudden increase and ending with a significant rise."
+    },
+    {
+        "id": 198,
+        "time_series": "32,35,47,46,27,23,57,67,58,75,100,90",
+        "series_description": "The data displays an overall increasing trend with some minor fluctuations, culminating in a slight drop at the end."
+    },
+    {
+        "id": 199,
+        "time_series": "35,47,46,27,23,57,67,58,75,100,90,73",
+        "series_description": "The data exhibits an overall increasing pattern with intermittent fluctuations, peaking before a slight drop at the end."
+    },
+    {
+        "id": 200,
+        "time_series": "47,46,27,23,57,67,58,75,100,90,73,74",
+        "series_description": "The time series data demonstrates a fluctuation pattern with an initial decrease, a sharp rise in the middle, descending slightly subsequently, with a relatively steady closing."
+    },
+    {
+        "id": 201,
+        "time_series": "46,27,23,57,67,58,75,100,90,73,74,70",
+        "series_description": "The time series data exhibits an overall increasing trend with a minor decrease towards the end."
+    },
+    {
+        "id": 202,
+        "time_series": "27,23,57,67,58,75,100,90,73,74,70,65",
+        "series_description": "The data shows a rising trend initially, peaking midway, followed by a general decline."
+    },
+    {
+        "id": 203,
+        "time_series": "23,57,67,58,75,100,90,73,74,70,65,65",
+        "series_description": "The data exhibits a fluctuation pattern, starting with an increase, peaking midway, and then experiencing a gradual decline."
+    },
+    {
+        "id": 204,
+        "time_series": "57,67,58,75,100,90,73,74,70,65,65,27",
+        "series_description": "The data shows an overall fluctuating pattern with an initial increase, a slight decrease, followed by a notable dip towards the end."
+    },
+    {
+        "id": 205,
+        "time_series": "67,58,75,100,90,73,74,70,65,65,27,7",
+        "series_description": "The data reveals a fluctuating pattern, with an initial rise, then a slight decrease followed by a significant drop."
+    },
+    {
+        "id": 206,
+        "time_series": "58,75,100,90,73,74,70,65,65,27,7,0",
+        "series_description": "The data shows a declining trend over time, starting high, briefly stabilizing, before dropping sharply to zero."
+    },
+    {
+        "id": 207,
+        "time_series": "75,100,90,73,74,70,65,65,27,7,0,23",
+        "series_description": "The time series data generally displays a declining trend, with a sharp drop towards the end followed by a slight increase."
+    },
+    {
+        "id": 208,
+        "time_series": "100,90,73,74,70,65,65,27,7,0,23,42",
+        "series_description": "The time series data exhibits a general downward trend, with a minor rise towards the end."
+    },
+    {
+        "id": 209,
+        "time_series": "90,73,74,70,65,65,27,7,0,23,42,47",
+        "series_description": "The time series data shows a pattern of initial steady decline, followed by a drastic drop, then ends with a mild increase."
+    },
+    {
+        "id": 210,
+        "time_series": "64,66,62,58,58,24,6,0,20,38,41,35",
+        "series_description": "The data reflects a sharp decline, a slight rebound and a steady decline towards the end."
+    },
+    {
+        "id": 211,
+        "time_series": "59,56,52,52,22,6,0,18,34,37,31,24",
+        "series_description": "The data exhibits a pattern of sharp decline followed by gradual recovery, with minor fluctuations."
+    },
+    {
+        "id": 212,
+        "time_series": "56,52,52,22,6,0,18,34,37,31,24,15",
+        "series_description": "The data exhibits a fluctuating pattern with initial decline, a subsequent rise, and finally a decrease again."
+    },
+    {
+        "id": 213,
+        "time_series": "52,52,22,6,0,18,34,37,31,24,15,25",
+        "series_description": "The data generally shows a decrease, followed by an increase, ending with a decrease again."
+    },
+    {
+        "id": 214,
+        "time_series": "52,22,6,0,18,34,37,31,24,15,25,43",
+        "series_description": "The data shows a fluctuating pattern, initially decreasing, then rising and eventually falling again."
+    },
+    {
+        "id": 215,
+        "time_series": "22,6,0,18,34,37,31,24,15,25,43,54",
+        "series_description": "The data shows a fluctuation pattern with an initial drop, subsequent increase, and a slight decrease towards the end."
+    },
+    {
+        "id": 216,
+        "time_series": "6,0,18,34,37,31,24,15,25,43,54,57",
+        "series_description": "The data shows an initial increase, followed by a decrease, then another increase and a final slight increase."
+    },
+    {
+        "id": 217,
+        "time_series": "0,18,34,37,31,24,15,25,43,54,57,61",
+        "series_description": "The data shows an initial gradual increase, followed by a decrease and then a strong increase towards the end."
+    },
+    {
+        "id": 218,
+        "time_series": "18,34,37,31,24,15,25,43,54,57,61,63",
+        "series_description": "The data exhibits an overall increasing trend with minor fluctuations, starting low, increasing to a peak, dipping slightly, and then rising again."
+    },
+    {
+        "id": 219,
+        "time_series": "34,37,31,24,15,25,43,54,57,61,63,79",
+        "series_description": "The time series data shows an initial decrease, followed by a sharp increase, and ending with a steady rise."
+    },
+    {
+        "id": 220,
+        "time_series": "37,31,24,15,25,43,54,57,61,63,79,90",
+        "series_description": "The time series data shows an overall increasing trend with slight decrease in the early stage."
+    },
+    {
+        "id": 221,
+        "time_series": "31,24,15,25,43,54,57,61,63,79,90,100",
+        "series_description": "The data exhibits a consistent increasing trend over time."
+    },
+    {
+        "id": 222,
+        "time_series": "24,15,25,43,54,57,61,63,79,90,100,96",
+        "series_description": "The time series data shows a consistent increasing trend over time."
+    },
+    {
+        "id": 223,
+        "time_series": "15,25,43,54,57,61,63,79,90,100,96,80",
+        "series_description": "The data exhibits a general increase, then plateaus slightly before spiking, and finally declines."
+    },
+    {
+        "id": 224,
+        "time_series": "25,43,54,57,61,63,79,90,100,96,80,62",
+        "series_description": "\"The time series data exhibits a bell-curve pattern, with a gradual increase, reaching a peak, and then a subsequent decrease.\""
+    },
+    {
+        "id": 725,
+        "time_series": "58,62,54,41,33,45,37,66,54,41,20,20",
+        "series_description": "The time series data shows mixed variations marked by an initial increase, followed by a decrease, another increase, a decrease again, before finally stabilizing at the end."
+    },
+    {
+        "id": 726,
+        "time_series": "68,62,51,44,55,48,72,62,51,34,34,55",
+        "series_description": "The data exhibits a fluctuation pattern with a general decrease, followed by a slight increase before it decreases again."
+    },
+    {
+        "id": 727,
+        "time_series": "62,51,44,55,48,72,62,51,34,34,55,55",
+        "series_description": "The time series data shows a fluctuating pattern with a notable dip midway, followed by a recovery and stabilization."
+    },
+    {
+        "id": 728,
+        "time_series": "51,44,55,48,72,62,51,34,34,55,55,48",
+        "series_description": "The series data exhibits a fluctuating pattern with an initial decline, followed by a significant rise, a decrease, and then a slight increase towards the end."
+    },
+    {
+        "id": 729,
+        "time_series": "44,55,48,72,62,51,34,34,55,55,48,37",
+        "series_description": "The data demonstrates an initial climb, followed by a substantial decrease, and eventually stabilizes with slight fluctuations."
+    },
+    {
+        "id": 730,
+        "time_series": "55,48,72,62,51,34,34,55,55,48,37,27",
+        "series_description": "The time series data exhibits a fluctuating pattern, with an initial increase, followed by a decrease, and then following a similar high-low-high sequence later on."
+    },
+    {
+        "id": 731,
+        "time_series": "53,78,67,57,39,39,60,60,53,42,32,21",
+        "series_description": "The data displays a pattern of fluctuation, generally declining in the beginning, then reaching a plateau before falling again."
+    },
+    {
+        "id": 732,
+        "time_series": "85,74,62,44,44,66,66,59,48,37,25,29",
+        "series_description": "The data shows a general decline, followed by a plateau and a slight decrease, with a slight upturn towards the end."
+    },
+    {
+        "id": 733,
+        "time_series": "87,74,54,54,79,79,70,58,45,33,37,58",
+        "series_description": "The data shows a generally decreasing trend with minor fluctuations."
+    },
+    {
+        "id": 734,
+        "time_series": "74,54,54,79,79,70,58,45,33,37,58,54",
+        "series_description": "The data illustrates a general decrease, with intermittent periods of stability and a slight rise towards the end."
+    },
+    {
+        "id": 735,
+        "time_series": "54,54,79,79,70,58,45,33,37,58,54,41",
+        "series_description": "The data shows an initial stable pattern, followed by a general decrease, then a fluctuation before ending on a decrease."
+    },
+    {
+        "id": 736,
+        "time_series": "54,79,79,70,58,45,33,37,58,54,41,12",
+        "series_description": "The data shows a varying pattern, with an initial increase, followed by a decrease, a brief rise again and finally a steep fall."
+    },
+    {
+        "id": 737,
+        "time_series": "79,79,70,58,45,33,37,58,54,41,12,20",
+        "series_description": "The data shows a sharp decrease, followed by a small rise then resumes a declining trend."
+    },
+    {
+        "id": 738,
+        "time_series": "81,74,62,51,40,44,62,59,48,22,29,48",
+        "series_description": "The data displays a generally declining trend, with a slight increase in the middle and towards the end."
+    },
+    {
+        "id": 739,
+        "time_series": "74,62,51,40,44,62,59,48,22,29,48,55",
+        "series_description": "The time series data shows a general decreasing trend with a slight increase midway, before finishing with an increasing pattern."
+    },
+    {
+        "id": 740,
+        "time_series": "62,51,40,44,62,59,48,22,29,48,55,40",
+        "series_description": "The data series showcases an overall fluctuating pattern, with an initial decrease, followed by a significant dip, and two subsequent increases."
+    },
+    {
+        "id": 741,
+        "time_series": "51,40,44,62,59,48,22,29,48,55,40,18",
+        "series_description": "The data displays a fluctuating pattern with an initial increase, a sharp decrease, then an increase followed by a final drop."
+    },
+    {
+        "id": 742,
+        "time_series": "40,44,62,59,48,22,29,48,55,40,18,14",
+        "series_description": "The data shows a fluctuating pattern with an initial increase, a steep decline, then a rebound, followed by another decrease."
+    },
+    {
+        "id": 743,
+        "time_series": "52,72,67,56,28,36,56,63,47,23,20,16",
+        "series_description": "The data exhibits fluctuations, starting with an initial increase, followed by a significant decrease, and then a slight increase towards the end with a final dip."
+    },
+    {
+        "id": 744,
+        "time_series": "78,73,60,30,39,60,69,52,26,21,17,26",
+        "series_description": "The data exhibits a pattern of steep decline, moderate recovery followed by another decline, and a slight increase at the end."
+    },
+    {
+        "id": 745,
+        "time_series": "77,66,40,48,66,74,59,37,33,29,37,70",
+        "series_description": "The data displays a fluctuating pattern, with an initial drop, a small rise, descending trend, and ends with another rise."
+    },
+    {
+        "id": 746,
+        "time_series": "67,42,50,67,74,60,39,35,32,39,71,57",
+        "series_description": "The data exhibits a fluctuating pattern with an initial decrease, followed by a rise, and then a decrease again."
+    },
+    {
+        "id": 747,
+        "time_series": "42,50,67,74,60,39,35,32,39,71,57,39",
+        "series_description": "The data reveals a fluctuation pattern with periods of ascension, followed by a significant descent, then rising again before ending with a drop."
+    },
+    {
+        "id": 748,
+        "time_series": "50,67,74,60,39,35,32,39,71,57,39,21",
+        "series_description": "The data exhibits a fluctuating trend with three clear sections - an initial increase, followed by a drop and then another increase, finally ending with a steep decline."
+    },
+    {
+        "id": 749,
+        "time_series": "73,80,65,42,38,34,42,76,61,42,23,30",
+        "series_description": "The time series data exhibits significant variations with an initial increase, followed by a steady decline, and concluding with an upswing."
+    },
+    {
+        "id": 750,
+        "time_series": "93,79,58,55,51,58,89,75,58,41,48,65",
+        "series_description": "The given time series data manifests a fluctuating pattern, with spikes followed by drops, and then a gradual increase towards the end."
+    },
+    {
+        "id": 751,
+        "time_series": "79,58,55,51,58,89,75,58,41,48,65,62",
+        "series_description": "The data presents a fluctuating pattern with an initial decrease, followed by a sharp rise and then a gradual decline."
+    },
+    {
+        "id": 752,
+        "time_series": "58,55,51,58,89,75,58,41,48,65,62,48",
+        "series_description": "The time series data exhibits a volatile pattern with no distinct trend, although there are periods of relative rise and decrease."
+    },
+    {
+        "id": 753,
+        "time_series": "55,51,58,89,75,58,41,48,65,62,48,37",
+        "series_description": "The data shows fluctuations with an initial slight decrease, followed by a sharp increase, finally ending with a decline."
+    },
+    {
+        "id": 754,
+        "time_series": "51,58,89,75,58,41,48,65,62,48,37,37",
+        "series_description": "The data shows a pattern of initial increase, a sharp decline, followed by mild fluctuations with an overall decreasing trend."
+    },
+    {
+        "id": 755,
+        "time_series": "63,93,80,63,46,53,70,66,53,43,43,29",
+        "series_description": "The series data shows a general decrease with some minor fluctuations."
+    },
+    {
+        "id": 756,
+        "time_series": "96,83,67,51,58,74,70,58,48,48,35,32",
+        "series_description": "The time series data exhibits a predominantly decreasing trend with minor fluctuations."
+    },
+    {
+        "id": 757,
+        "time_series": "83,67,51,58,74,70,58,48,48,35,32,48",
+        "series_description": "The time series data displays a general decline, starting high, dipping in the middle, and bouncing back slightly towards the end."
+    },
+    {
+        "id": 758,
+        "time_series": "68,53,59,75,71,59,50,50,37,34,50,50",
+        "series_description": "The data generally depicts a decreasing trend with some minor fluctuations."
+    },
+    {
+        "id": 759,
+        "time_series": "53,59,75,71,59,50,50,37,34,50,50,43",
+        "series_description": "The time series data shows a general decreasing pattern with slight fluctuations, followed by a period of stability, and finally a minor drop."
+    },
+    {
+        "id": 760,
+        "time_series": "59,75,71,59,50,50,37,34,50,50,43,15",
+        "series_description": "The data displays a decrease pattern, with a slight recovery midway, followed by a sharper decrease at the end."
+    },
+    {
+        "id": 761,
+        "time_series": "77,74,61,51,51,38,35,51,51,45,16,22",
+        "series_description": "The data demonstrates a broadly declining trend with intermittent stability and a slight increase towards the end."
+    },
+    {
+        "id": 762,
+        "time_series": "76,64,55,55,44,41,55,55,50,23,29,35",
+        "series_description": "The data exhibits a generally decreasing trend, with minor fluctuations in the middle."
+    },
+    {
+        "id": 763,
+        "time_series": "64,55,55,44,41,55,55,50,23,29,35,41",
+        "series_description": "The data demonstrates a generally declining trend with some stable periods, and a slight increase towards the end."
+    },
+    {
+        "id": 764,
+        "time_series": "55,55,44,41,55,55,50,23,29,35,41,35",
+        "series_description": "The data exhibits fluctuations with a general consistency at the beginning, followed by a significant drop, and then a gradual rise back towards its initial range."
+    },
+    {
+        "id": 765,
+        "time_series": "55,44,41,55,55,50,23,29,35,41,35,17",
+        "series_description": "The time series data presents a fluctuating pattern, starting with a slight decline, followed by a sharp drop and finally closing with a mild increase."
+    },
+    {
+        "id": 766,
+        "time_series": "44,41,55,55,50,23,29,35,41,35,17,11",
+        "series_description": "The data initially shows an increasing pattern, then significantly declines, followed by a slight increase and finally decreasing again."
+    },
+    {
+        "id": 767,
+        "time_series": "50,65,65,59,31,37,43,50,43,25,18,18",
+        "series_description": "The data shows a fluctuation pattern, beginning with a slight increase, followed by a significant decrease, ending with a small stable phase."
+    },
+    {
+        "id": 768,
+        "time_series": "73,73,66,36,43,50,56,50,30,23,23,20",
+        "series_description": "The data shows a general decrease over time, with minor fluctuations and a brief rise towards the middle."
+    },
+    {
+        "id": 769,
+        "time_series": "73,66,36,43,50,56,50,30,23,23,20,43",
+        "series_description": "The time series data indicates a chaotic trend, initially descending and subsequently oscillating, ending with an upward movement."
+    },
+    {
+        "id": 770,
+        "time_series": "66,36,43,50,56,50,30,23,23,20,43,33",
+        "series_description": "The time series data exhibits notable fluctuations with an initial rise, followed by a drop, and then, minimal changes before it rises and ultimately falls again."
+    },
+    {
+        "id": 771,
+        "time_series": "36,43,50,56,50,30,23,23,20,43,33,26",
+        "series_description": "The data shows a fluctuating pattern majorly consisting of an initial rise, followed by a decrease then a rise, and a final decrease."
+    },
+    {
+        "id": 772,
+        "time_series": "44,51,58,51,31,24,24,20,44,34,27,10",
+        "series_description": "\"The time series data exhibits a general declining trend with minor fluctuation, and a brief spike towards the middle.\""
+    },
+    {
+        "id": 773,
+        "time_series": "60,68,60,36,28,28,24,51,40,31,11,20",
+        "series_description": "The time series data exhibits a fluctuating pattern with an overall decrease, followed by a smaller increase and then a decrease again."
+    },
+    {
+        "id": 774,
+        "time_series": "78,69,43,34,34,30,60,47,39,17,26,34",
+        "series_description": "The data exhibits a fluctuating pattern with an overall decreasing trend, a brief rise midway, followed by a steady decline and a final moderate upturn."
+    },
+    {
+        "id": 775,
+        "time_series": "71,48,40,40,36,63,51,43,23,31,40,43",
+        "series_description": "The time series data shows a fluctuating pattern with the general trend indicating an initial rise, a sharp fall, followed by a slight recovery and slight fall again."
+    },
+    {
+        "id": 776,
+        "time_series": "48,40,40,36,63,51,43,23,31,40,43,28",
+        "series_description": "The data exhibits a fluctuation pattern with a slight decrease initially, followed by a sharp increase and then gradually decreases."
+    },
+    {
+        "id": 163,
+        "time_series": "20,33,39,58,58,54,31,35,24,39,40,50",
+        "series_description": "The time series data exhibits oscillations, with an initial increase, a decrease, followed by another increase and a final decrease."
+    },
+    {
+        "id": 164,
+        "time_series": "30,36,56,57,52,29,32,20,36,37,48,51",
+        "series_description": "The data illustrates a fluctuating pattern with an initial increase, followed by a decrease, and ending with a gradual rise."
+    },
+    {
+        "id": 165,
+        "time_series": "35,56,56,51,27,31,19,35,36,47,50,33",
+        "series_description": "The data shows a fluctuating pattern, with an initial rise followed by a sharp decline, then a rise and lastly a decrease."
+    },
+    {
+        "id": 166,
+        "time_series": "54,54,49,24,28,16,33,33,45,48,30,25",
+        "series_description": "The data exhibits a generally fluctuating pattern with an initial stability, followed by a sharp drop and recovery, which ultimately ends in a downward trend."
+    },
+    {
+        "id": 167,
+        "time_series": "48,42,14,18,4,23,24,37,41,20,15,47",
+        "series_description": "The data exhibits a fluctuating pattern, with an initial fall, a brief rise, and a decrease, followed by another rise."
+    },
+    {
+        "id": 168,
+        "time_series": "42,14,18,4,23,24,37,41,20,15,47,40",
+        "series_description": "The time series data shows a fluctuating pattern with an initial increase, followed by a dip and a climb, ending with a slight decline."
+    },
+    {
+        "id": 169,
+        "time_series": "12,16,3,21,22,33,36,18,13,42,36,43",
+        "series_description": "The data demonstrates a fluctuating pattern with two noticeable increases and a decrease in between."
+    },
+    {
+        "id": 170,
+        "time_series": "12,2,16,16,25,27,13,10,32,27,32,39",
+        "series_description": "The time series data shows an initial fluctuation followed by a rise, a brief drop and concludes with another rise."
+    },
+    {
+        "id": 171,
+        "time_series": "2,16,16,25,27,13,10,32,27,32,39,46",
+        "series_description": "The time series data shows an overall escalating trend with intermittent dips."
+    },
+    {
+        "id": 172,
+        "time_series": "16,16,25,27,13,10,32,27,32,39,46,51",
+        "series_description": "The data shows a general upward trend with some fluctuations."
+    },
+    {
+        "id": 173,
+        "time_series": "13,20,23,11,8,26,22,27,32,38,43,56",
+        "series_description": "The data shows a general increasing trend, with a small initial dip followed by steady growth."
+    },
+    {
+        "id": 174,
+        "time_series": "18,21,9,6,24,21,25,30,37,41,54,41",
+        "series_description": "The time series data indicates an overall increasing trend."
+    },
+    {
+        "id": 175,
+        "time_series": "19,8,5,22,19,22,28,33,37,49,37,15",
+        "series_description": "The data displays a fluctuating pattern, beginning with a rise, descending midway, and then surging to a peak before finally decreasing again."
+    },
+    {
+        "id": 176,
+        "time_series": "6,4,18,15,18,22,26,30,39,30,12,31",
+        "series_description": "The time series data displays a rise, then a significant dip, followed by a plateau, and finally a decrease at the end."
+    },
+    {
+        "id": 177,
+        "time_series": "4,17,14,17,21,26,29,38,29,12,30,38",
+        "series_description": "The data exhibits a fluctuation pattern with an initial increase, a brief decrease midway, then continuing to increase before a sharp decline near the end."
+    },
+    {
+        "id": 178,
+        "time_series": "13,11,13,16,19,21,29,22,9,22,28,27",
+        "series_description": "The time series data exhibits fluctuations with an initial fluctuation, a middle increase, and a final decrease."
+    },
+    {
+        "id": 179,
+        "time_series": "11,13,16,19,21,28,22,9,22,28,27,32",
+        "series_description": "The data demonstrates a fluctuating pattern with a general increase, a brief decline, followed by an increase and then another decline."
+    },
+    {
+        "id": 180,
+        "time_series": "12,15,18,20,27,20,8,21,26,25,30,40",
+        "series_description": "The data exhibits a fluctuating trend with periods of increase, followed by brief decreases and culminating with a substantial rise."
+    },
+    {
+        "id": 181,
+        "time_series": "13,16,18,23,18,7,18,23,22,26,35,26",
+        "series_description": "The data shows a fluctuating pattern with an initial increase, a sharp decline, another increase, and finally ending with a significant surge."
+    },
+    {
+        "id": 182,
+        "time_series": "12,14,19,14,4,14,19,18,21,30,21,29",
+        "series_description": "The data exhibits a fluctuating pattern, with a general increase midway through, and brief periods of stability interspace."
+    },
+    {
+        "id": 183,
+        "time_series": "14,19,14,4,14,19,18,21,30,21,29,37",
+        "series_description": "The data exhibits a fluctuating pattern with a general initial stability, a decline, and then an increasing trend."
+    },
+    {
+        "id": 184,
+        "time_series": "18,13,4,14,18,17,21,29,20,28,36,35",
+        "series_description": "The time series data shows a fluctuation pattern with an initial decrease, followed by a consistent rise, before ending with a minor decrease."
+    },
+    {
+        "id": 185,
+        "time_series": "13,4,14,18,17,21,29,20,28,36,35,40",
+        "series_description": "The data generally follows an increasing trend, with some fluctuations along the line."
+    },
+    {
+        "id": 364,
+        "time_series": "84,90,100,97,62,83,52,55,24,5,77,71",
+        "series_description": "The data exhibits significant fluctuation, with an initial rise, a stark decline mid-way, and an eventual moderate increase towards the end."
+    },
+    {
+        "id": 365,
+        "time_series": "90,100,97,62,83,52,55,24,5,77,71,79",
+        "series_description": "The data shows a generally decreasing trend with some fluctuations, indicative of two smaller peaks."
+    },
+    {
+        "id": 366,
+        "time_series": "100,97,62,83,52,55,24,5,77,71,79,87",
+        "series_description": "The data shows an initial decreasing trend, with a slight increase mid-series, followed by a final increase."
+    },
+    {
+        "id": 367,
+        "time_series": "97,62,83,52,55,24,5,77,71,79,87,90",
+        "series_description": "The data exhibits a fluctuation pattern, with an initial decline, then a drastic dip, followed by a rise and a slight increase towards the end."
+    },
+    {
+        "id": 368,
+        "time_series": "62,83,52,55,24,5,77,71,79,87,90,91",
+        "series_description": "The data shows a fluctuating pattern: beginning with a mixed trend, followed by a substantial decrease, then a strong increase that levels off at the end."
+    },
+    {
+        "id": 369,
+        "time_series": "83,52,55,24,5,77,71,79,87,90,91,57",
+        "series_description": "The time series data shows an overall fluctuating pattern, starting with a decrease, then a sharp rise, and ends with a slight decline."
+    },
+    {
+        "id": 370,
+        "time_series": "52,55,24,5,77,71,79,87,90,91,57,75",
+        "series_description": "The data presents a fluctuating pattern - initially increasing, then experiencing a significant drop followed by a sharp boost, and finally decreasing again."
+    },
+    {
+        "id": 371,
+        "time_series": "55,24,5,77,71,79,87,90,91,57,75,51",
+        "series_description": "The series shows a significant variation with an initial rise, peaking mid-series, followed by a general decrease."
+    },
+    {
+        "id": 372,
+        "time_series": "19,0,76,69,78,86,90,90,55,74,48,60",
+        "series_description": "The time series data shows an overall fluctuating trend, initially increasing, then decreasing significantly, and finally increasing again."
+    },
+    {
+        "id": 373,
+        "time_series": "0,76,69,78,86,90,90,55,74,48,60,27",
+        "series_description": "The data displays a fluctuating trend with a significant climb, a gradual drop, then a sharp decline."
+    },
+    {
+        "id": 374,
+        "time_series": "76,69,78,86,90,90,55,74,48,60,27,9",
+        "series_description": "The data indicates a decreasing trend with intermittent fluctuations, forming an overall declining pattern."
+    },
+    {
+        "id": 375,
+        "time_series": "69,78,86,90,90,55,74,48,60,27,9,82",
+        "series_description": "The data demonstrates a fluctuating pattern, initially increasing, then sharply decreasing, followed by a final surge."
+    },
+    {
+        "id": 376,
+        "time_series": "78,86,90,90,55,74,48,60,27,9,82,69",
+        "series_description": "The data initially demonstrates an upward trend, experiences a sharp fall, then rebounds moderately before declining significantly and finally increasing back towards its earlier values."
+    },
+    {
+        "id": 377,
+        "time_series": "88,91,92,56,75,49,61,27,9,83,70,92",
+        "series_description": "The data displays a fluctuating pattern, with an initial rise, a significant drop, followed by a rebound, then culminating with a substantial increase."
+    },
+    {
+        "id": 378,
+        "time_series": "91,92,56,75,49,61,27,9,83,70,92,92",
+        "series_description": "The series starts with slight fluctuations, drops significantly midway, then rises back up before stabilizing at the end."
+    },
+    {
+        "id": 379,
+        "time_series": "92,56,75,49,61,27,9,83,70,92,92,91",
+        "series_description": "The data indicates a fluctuating pattern, presenting an initial decline, then a sharp drop, followed by a substantial rise before slightly declining again."
+    },
+    {
+        "id": 380,
+        "time_series": "56,75,49,61,27,9,83,70,92,92,91,100",
+        "series_description": "The data shows a fluctuation pattern with an initial increase, then a sharp decrease, followed by a steady increase until leveling off with a small peak at the end."
+    },
+    {
+        "id": 381,
+        "time_series": "75,49,61,27,9,83,70,92,92,91,100,49",
+        "series_description": "The time series data shows a fluctuating pattern with an initial dip, followed by a major rise and ending with a considerable drop."
+    },
+    {
+        "id": 382,
+        "time_series": "45,57,25,8,78,65,86,85,85,93,46,73",
+        "series_description": "The time series data mainly shows a pattern of fluctuation, with an overall increase in the first half, a decrease in the middle and a rise again towards the end."
+    },
+    {
+        "id": 383,
+        "time_series": "57,25,8,78,65,86,85,85,93,46,73,49",
+        "series_description": "The data exhibits a fluctuating pattern, with an initial fall, a rise towards the middle, followed by a slight drop and a final increase before decreasing again."
+    },
+    {
+        "id": 384,
+        "time_series": "22,4,77,64,86,85,85,92,44,72,46,43",
+        "series_description": "The time series data displays high variability with a tumultuous rise and fall, ultimately decreasing towards the end."
+    },
+    {
+        "id": 385,
+        "time_series": "4,77,64,86,85,85,92,44,72,46,43,26",
+        "series_description": "The data shows a fluctuating trend with a significant dip towards the middle, followed by a rise and then another decline towards the end."
+    },
+    {
+        "id": 386,
+        "time_series": "77,64,86,85,85,92,44,72,46,43,26,0",
+        "series_description": "The time series data demonstrates a pattern of initial high values, followed by a significant drop, and ending with a steep decline to zero."
+    },
+    {
+        "id": 387,
+        "time_series": "64,86,85,85,92,44,72,46,43,26,0,71",
+        "series_description": "The time series data illustrates a fluctuating pattern, with an overall downward trend followed by a significant dip before a slight increase in the end."
+    },
+    {
+        "id": 388,
+        "time_series": "86,85,85,93,46,73,48,45,28,3,72,70",
+        "series_description": "The given time series data exhibits a high degree of volatility, with an initial stable trend, followed by a sharp decrease and a final rise."
+    },
+    {
+        "id": 389,
+        "time_series": "85,85,93,46,73,48,45,28,3,72,70,91",
+        "series_description": "The data shows a fluctuating pattern, initially remaining stable, then decreasing sharply, followed by a drop to the lowest point, before rising again."
+    },
+    {
+        "id": 390,
+        "time_series": "85,93,46,73,48,45,28,3,72,70,91,85",
+        "series_description": "The data series showcases a fluctuating pattern, starting high, dropping significantly, returning to high, and ending moderately."
+    },
+    {
+        "id": 391,
+        "time_series": "93,46,73,48,45,28,3,72,70,91,85,92",
+        "series_description": "The time series data shows a volatile pattern that starts high, briefly drops, then climbs up to a peak near the middle, falls drastically, and finally increases again towards the end."
+    },
+    {
+        "id": 392,
+        "time_series": "46,73,48,45,28,3,72,70,91,85,92,100",
+        "series_description": "The data shows a highly fluctuating pattern with an initial increase, a sharp decrease, a resurgence, and a final increase."
+    },
+    {
+        "id": 393,
+        "time_series": "70,47,44,27,3,69,67,88,82,89,96,50",
+        "series_description": "The data exhibits a fluctuating pattern with an initial decline, followed by a sharp increase, a slight decline, and finally an increase."
+    },
+    {
+        "id": 394,
+        "time_series": "47,44,27,3,69,67,88,82,89,96,50,79",
+        "series_description": "The data exhibits a fluctuating pattern, initially dipping, then rising sharply, plateauing briefly, and finally dropping and rising again."
+    },
+    {
+        "id": 395,
+        "time_series": "44,27,3,69,67,88,82,89,96,50,79,46",
+        "series_description": "The series displays a generally fluctuating trend, including an initial drop, potentially followed by a sharp increase, and a consequent decrease."
+    },
+    {
+        "id": 396,
+        "time_series": "27,3,69,67,88,82,89,96,50,79,46,48",
+        "series_description": "The data demonstrates a fluctuating pattern, with a rising trend initially, then a significant drop, and finally a slightly bumpy increase towards the end."
+    },
+    {
+        "id": 397,
+        "time_series": "3,69,67,88,82,89,96,50,79,46,48,22",
+        "series_description": "The time series data displays an initial increase, followed by a marked decrease, and ends with a minor increase."
+    },
+    {
+        "id": 398,
+        "time_series": "69,67,88,82,89,96,50,79,46,48,22,0",
+        "series_description": "The data displays an initial high fluctuation pattern, followed by a significant decline towards the end."
+    },
+    {
+        "id": 399,
+        "time_series": "67,88,82,89,96,50,79,46,48,22,0,70",
+        "series_description": "The data exhibits significant fluctuations, with an initial increase followed by a drastic drop, then a slight rise and fall, and finally a large increase."
+    },
+    {
+        "id": 400,
+        "time_series": "88,82,89,96,50,79,46,48,22,0,70,76",
+        "series_description": "The data exhibits a high degree of volatility, with initial fluctuations, a sharp decline, and then a moderate rebound towards the end."
+    },
+    {
+        "id": 401,
+        "time_series": "82,89,96,50,79,46,48,22,0,70,76,93",
+        "series_description": "The time series data presents a fluctuating pattern, initially increasing, followed by a significant decrease, and a final upward trend."
+    },
+    {
+        "id": 402,
+        "time_series": "89,96,50,79,46,48,22,0,70,76,93,88",
+        "series_description": "The data displays a fluctuating pattern, beginning with an increase, followed by a significant decrease, and closing with a steady incline."
+    },
+    {
+        "id": 403,
+        "time_series": "95,50,78,45,47,21,0,69,75,91,87,98",
+        "series_description": "The data presents a fluctuating pattern with an initial decrease, followed by a significant drop to the minimum, then it shoes a considerable increase toward the end."
+    },
+    {
+        "id": 404,
+        "time_series": "50,78,45,47,21,0,69,75,91,87,98,96",
+        "series_description": "The data exhibits fluctuations with an initial rise, followed by a significant drop, and ends with a high peak."
+    },
+    {
+        "id": 405,
+        "time_series": "69,40,42,19,0,61,66,81,76,87,85,52",
+        "series_description": "The time series data displays substantial fluctuations, with an initial decrease, then a surge, followed by a dip and a final rise."
+    },
+    {
+        "id": 406,
+        "time_series": "40,42,19,0,61,66,81,76,87,85,52,79",
+        "series_description": "The time series data shows an erratic pattern with an initial increase, a sharp drop followed by a large rise, a slight decline and finally an upwards trend displaying some fluctuations."
+    },
+    {
+        "id": 407,
+        "time_series": "42,19,0,61,66,81,76,87,85,52,79,42",
+        "series_description": "The time series data exhibits moderate fluctuations, with a sharp drop at the beginning, a substantial rise and then a slight decline toward the end."
+    },
+    {
+        "id": 408,
+        "time_series": "19,0,61,66,81,76,87,85,52,79,42,59",
+        "series_description": "The data shows a fluctuating pattern characterized by sharp increases and decreases, with a general uptick in the earlier values, a drop midway, and ending with a generally uneven pattern."
+    },
+    {
+        "id": 409,
+        "time_series": "0,61,66,81,76,87,85,52,79,42,59,30",
+        "series_description": "The time series data presents a fluctuating pattern, featuring an initial increase, a subsequent decrease, and a final wavering pattern towards the end."
+    },
+    {
+        "id": 410,
+        "time_series": "61,66,81,76,87,85,52,79,42,59,30,5",
+        "series_description": "The data displays an overall declining trend with minor fluctuations and a notable dip towards the end."
+    },
+    {
+        "id": 411,
+        "time_series": "66,81,76,87,85,52,79,42,59,30,5,68",
+        "series_description": "The data exhibits a pattern of fluctuations with an initial increase, followed by a decrease, a sharp drop, and an eventual rise."
+    },
+    {
+        "id": 412,
+        "time_series": "81,76,87,85,52,79,42,59,30,5,68,75",
+        "series_description": "The time series data shows a fluctuation pattern with a high initial value, considerable dip in the middle, and a moderate rise towards the end."
+    },
+    {
+        "id": 413,
+        "time_series": "76,87,85,52,79,42,59,30,5,68,75,88",
+        "series_description": "The data begins with a fluctuating increase, experiences a steep decline, and then rebounds with an increasing trend."
+    },
+    {
+        "id": 414,
+        "time_series": "87,85,52,79,42,59,30,5,68,75,88,87",
+        "series_description": "The data exhibits a pattern of volatility, starting with a downward trend, then a steep drop, followed by a rising trend with a slight dip at the end."
+    },
+    {
+        "id": 415,
+        "time_series": "85,52,79,42,59,30,5,68,75,88,87,100",
+        "series_description": "The series exhibits fluctuations with an initial downward trend, a significant drop in the middle, followed by a consistent rise towards the end."
+    }
+]

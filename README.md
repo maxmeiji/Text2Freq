@@ -64,8 +64,8 @@ You can adjust hyperparameters based on your needs (e.g. different leadning freq
 The finetuning code structure mainly follows **TSFLib**, focusing on the forecasting task. We add different model settings to support various unimodal models and ablation studies.
 
 To run the finetuning stage with different datasets:
-```sh
-sh ./scripts/month_traffic.sh 0 3
+```
+bash ./scripts/month_traffic.sh 0 3
 ```
 
 You can replace the dataset by selecting different scripts from the `scripts` folder, each with different configurations.

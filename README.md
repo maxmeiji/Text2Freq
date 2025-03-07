@@ -54,7 +54,7 @@ The pretraining stage includes the VQ-VAE model and the Transformer encoder.
 
 Run the pretraining script:
 ```
-sh ./run_pretraining.sh
+bash ./run_pretraining.sh
 ```
 
 You can adjust hyperparameters based on your needs (e.g. different leadning frequency components and different series lengths).

@@ -7,7 +7,7 @@ This is the official implementation of **Text2Freq: Instruction-Following Time S
 :triangular_flag_on_post: Some of the datasets are included in this repository, covering both the first-stage pretraining and the second-stage fusion.
 
 :triangular_flag_on_post: A preliminary version of **Text2Freq** was accepted at the **NeurIPS 2024 Workshop on Time Series in the Age of Large Models** ([arXiv](https://arxiv.org/abs/2411.00929) | [Official page](https://neurips.cc/virtual/2024/workshop/84712)).
----
+
 
 ## Instruction-Following Forecasting
 
